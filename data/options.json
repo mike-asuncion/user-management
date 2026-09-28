@@ -1,0 +1,33 @@
+{
+  "statuses": [
+    "Active",
+    "Pending",
+    "Disabled"
+  ],
+  "groups": [
+    "Admin",
+    "Licensed",
+    "Forward",
+    "Recruiter"
+  ],
+  "divisions": [
+    "NY",
+    "CA",
+    "TX",
+    "FL",
+    "IL",
+    "WA"
+  ],
+  "regions": [
+    "Corporate",
+    "Northeast",
+    "West",
+    "South",
+    "Midwest"
+  ],
+  "userTypes": [
+    "Employee",
+    "Contractor",
+    "Partner"
+  ]
+}
